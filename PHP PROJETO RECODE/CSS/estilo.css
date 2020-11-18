@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formas_pagamento {
+    color:red;
+}
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+.menu {
+    background-color:#ff0000;
+padding-left: 80px;
+
+
+}
+
+.menu a {
+    color:white;
+  text-decoration: none;
+  display: inline-block;
+  width:300px;
+ 
+}
+
+.preco {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+   
+#rodape {
+    text-align: center;
+}
+
+
+.contato {
+    border: 0px;
+    padding: 20px;
+    font-family:'Arial';
+}
+.contato p {
+    
+    display:inline-block;
+    width: 600px;
+   text-align: center;
+}
+.contato img {
+    color: lightslategrey;
+}
+.formusuario {
+    font-family:'Franklin Gothic Medium';
+    display:block;
+    margin:20px; 
+    border:6px solid #D3D3D3;
+    padding:5%;
+}
+.formusuario h3{
+    font-size: 35px;
+    text-align: center;
+}
+.produtos {
+    width:84%;
+}
+
+.categorias {
+vertical-align: top;
+width:15%;
+}
+.box_produto {
+display: inline-block;
+width: 20%;
+}
+.categorias,section{
+    display: inline-block;
+}
+.link {
+    vertical-align: 3vh;
+
+}
+.produtos img {
+    width:200px;
+    height:200px;
+}
+.produtos .descricao {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.lojas {
+    display: inline-block;
+margin: 30px 50px 30px 50px;
+width:25%;
+}
+.enderecos {
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .formulario {
+    font-family:'Franklin Gothic Medium';
+    display:flex;
+    justify-content: center;
+    margin:20px; 
+    border:6px solid silver;
+    padding:5%;
+    /* border: #ff0000 solid 1px; */
+}
+.formulario h3{
+    font-size: 35px;
+    text-align: center;
+}
